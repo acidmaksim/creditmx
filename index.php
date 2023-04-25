@@ -11,9 +11,9 @@
 </head>
 
 <body>
-	<!-- <?php
+	 <?php
 	$gclid = isset($_GET['gclid']) ? $_GET['gclid'] : '';
-	?> -->
+	?> 
 	<header class="header">
 		<div class="container">
 			<a href="/" class="header__logotype">
